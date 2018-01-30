@@ -1,0 +1,119 @@
+﻿正在安装程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在安装服务 Redis队列数据同步服务...
+已成功安装服务 Redis队列数据同步服务。
+正在日志 Application 中创建 EventLog 源 Redis队列数据同步服务...
+正在提交程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在卸载程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在移除 EventLog 源 Redis队列数据同步服务。
+正在从系统中移除服务 Redis队列数据同步服务...
+已成功地从系统中移除服务 Redis队列数据同步服务。
+正在安装程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在安装服务 Redis队列数据同步服务...
+已成功安装服务 Redis队列数据同步服务。
+正在日志 Application 中创建 EventLog 源 Redis队列数据同步服务...
+正在提交程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在卸载程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在移除 EventLog 源 Redis队列数据同步服务。
+正在从系统中移除服务 Redis队列数据同步服务...
+已成功地从系统中移除服务 Redis队列数据同步服务。
+正在安装程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在安装服务 Redis队列数据同步服务...
+已成功安装服务 Redis队列数据同步服务。
+正在日志 Application 中创建 EventLog 源 Redis队列数据同步服务...
+正在提交程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在卸载程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在移除 EventLog 源 Redis队列数据同步服务。
+正在从系统中移除服务 Redis队列数据同步服务...
+已成功地从系统中移除服务 Redis队列数据同步服务。
+尝试停止服务 Redis队列数据同步服务。
+正在安装程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在安装服务 Redis队列数据同步服务...
+已成功安装服务 Redis队列数据同步服务。
+正在日志 Application 中创建 EventLog 源 Redis队列数据同步服务...
+正在提交程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在卸载程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在移除 EventLog 源 Redis队列数据同步服务。
+正在从系统中移除服务 Redis队列数据同步服务...
+已成功地从系统中移除服务 Redis队列数据同步服务。
+正在安装程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在安装服务 Redis队列数据同步服务...
+已成功安装服务 Redis队列数据同步服务。
+正在日志 Application 中创建 EventLog 源 Redis队列数据同步服务...
+正在提交程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在卸载程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在移除 EventLog 源 Redis队列数据同步服务。
+正在从系统中移除服务 Redis队列数据同步服务...
+已成功地从系统中移除服务 Redis队列数据同步服务。
+正在安装程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog
+正在安装服务 Redis队列数据同步服务...
+已成功安装服务 Redis队列数据同步服务。
+正在日志 Application 中创建 EventLog 源 Redis队列数据同步服务...
+正在提交程序集“D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.exe
+   logfile = D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\RedisMQ\bin\Debug\RedisMQ.InstallLog

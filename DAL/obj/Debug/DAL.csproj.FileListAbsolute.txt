@@ -1,0 +1,16 @@
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\DAL.dll.config
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\DAL.dll
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\DAL.pdb
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\EntityFramework.dll
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\MySql.Data.dll
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\EntityFramework.xml
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\obj\Debug\DAL.dll
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\obj\Debug\DAL.pdb
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\Model.dll
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\bin\Debug\Model.pdb
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\obj\Debug\DAL.Migrations._20180119_sdp01.resources
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache

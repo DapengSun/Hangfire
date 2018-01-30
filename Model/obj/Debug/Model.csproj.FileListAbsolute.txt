@@ -1,0 +1,4 @@
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\Model\bin\Debug\Model.dll
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\Model\bin\Debug\Model.pdb
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\Model\obj\Debug\Model.dll
+D:\WorkSpace\消息队列\Sdp.Redis.MQ\RedisMQ\Model\obj\Debug\Model.pdb
